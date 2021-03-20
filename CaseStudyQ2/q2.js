@@ -41,8 +41,6 @@ let orderJson = () => {
 
 }
 
-orderJson()
-
 
 //requires ordered List with respect to xy1.y coordinate in increasing order
 let writeAfterOrdered = () => {
@@ -85,4 +83,5 @@ let writeAfterOrdered = () => {
 
 
 
+orderJson()
 writeAfterOrdered()
